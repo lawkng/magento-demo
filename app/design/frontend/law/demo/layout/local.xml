@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+/**
+ * local.xml
+ *
+ * Local layout modifications for our local theme
+ *
+ * @category    design
+ * @package     Law/Demo
+ */
+-->
+<layout version="0.1.0">
+
+	<default>
+		<reference name="head">
+			<action method="addItem"><type>skin_css</type><name>css/demo-style.css</name></action>
+			
+			<action method="addItem"><type>js</type><name>jquery/jquery-1.11.0.min.js</name></action>
+			<action method="addItem"><type>js</type><name>jquery/jquery-migrate-1.2.1.min.js</name></action>
+			<action method="addItem"><type>js</type><name>jquery/jquery.noconflict.js</name></action>
+			<action method="addItem"><type>js</type><name>jquery/law-demo-main.js</name></action>
+		</reference>
+		
+	</default>
+
+
+</layout>

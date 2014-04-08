@@ -1,0 +1,108 @@
+.header-container {
+	background:none;
+	border:0;
+}
+
+/* === top bar === */
+.top-bar {
+	background:#333333;
+}
+.top-bar .header {
+	padding-top:6px;
+	padding-bottom:6px;
+}
+.top-bar .quick-access {
+	padding:0px;
+}
+.top-bar .header .links {
+	margin-bottom:0px;
+}
+/* === logo === */
+.header-container > .header {
+	background:#ffffff;
+}
+.logo {
+	text-align:center;
+	width:100%;
+}
+/* === Menubar area === */
+
+.menu-container .holder {
+	float: left;
+}
+.menu-container .holder2 {
+	float:right;
+}
+.menu-container #nav {
+	width:auto;
+}
+.menu-container .form-search {
+	position:relative;
+	right:0px;
+	width:auto;
+	background:none;
+}
+
+/* === Top Menu === */
+.mega-menu .inner {
+	max-width: 400px;
+    min-width: 320px;
+	text-align:center;
+	background:#ECF3F6;
+}
+
+.mega-menu .sub-menu {
+	display:block;
+	float: left;
+	margin-right: 10px;
+    width: 100px !important;
+}
+.mega-menu .sub-menu.menu-last {
+	margin-right:0px;
+}
+
+.mega-menu .sub-menu img:hover {
+	opacity:0.5;
+}
+
+
+/* === Footer === */
+
+
+/* === Home === */
+.cms-home .main-container {
+	background:#ffffff !important;
+}
+.cms-home .main {
+	padding:0px !important;
+	background:none !Important;
+	width:100% !important;
+}
+
+/* === Page flexslider === */
+.flexslider {
+border:none !important;
+box-shadow:none !Important;
+margin:0px !Important;
+}
+.flexslider ul,
+.flexslider ol {
+	padding:0px;
+}
+.flex-control-paging {
+}
+.flex-direction-nav {
+	display:none !important;
+}
+.flex-direction-nav li {
+	list-style: none;
+}
+
+.flex-direction-nav a {
+	width:50px !important;
+}
+
+.flex-direction-nav a:before,
+.flex-direction-nav .flex-next:before {
+	content:"" !important;
+}

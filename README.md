@@ -1,5 +1,5 @@
 
-I (Lawrence) currently work with a senior Magento developer, who takes care of many backend modules/extensions/customisations while I work on styling the site.
+I (Lawrence Ng) currently work with a senior Magento developer, who takes care of many backend modules/extensions/customisations while I work on styling the site.
 But I was once asked the question - "what can you do by yourself?" Below is my answer.
 
 PURPOSE of this Magento demo store:

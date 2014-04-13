@@ -21,7 +21,17 @@
 			<action method="addItem"><type>js</type><name>jquery/law-demo-main.js</name></action>
 		</reference>
 		
+		<reference name="top.links">
+			<remove name="wishlist_link"/>
+		</reference>
+		
+		<remove name="left.newsletter" />
+		<remove name="tags_popular"/>
 	</default>
-
-
+		
+	<catalog_product_view>
+		<reference name="product.info.additional">
+			<action method="unsetChild"><name>product_tag_list</name></action>
+		</reference>
+	</catalog_product_view>
 </layout>

@@ -2,7 +2,13 @@ app/etc/local.xml
 media/catalog/product/cache/*
 media/tmp/*
 errors/local.xml
-var/*
+var/cache
+var/session
+var/locks
+var/package
+var/importexport
+var/log
+var/report
 downloader/*
 .htaccess
 !*/.htaccess

@@ -35,7 +35,7 @@
 <?php if($_menu): ?>
 <div class="nav-container">
     <ul id="nav">
-		<li><a><span>Home</a></span></li>
+		<li><a href="<?php echo $this->getUrl('') ?>"><span>Home</a></span></li>
 		<?php echo $this->getLayout()->createBlock('cms/block')->setBlockId('mega-menu-1')->toHtml() ?>
 		<?php echo $this->getLayout()->createblock('cms/block')->setBlockId('mega-menu-2')->toHtml() ?>
         <?php echo $_menu ?>

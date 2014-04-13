@@ -42,7 +42,7 @@
         <?php if ($this->getIsHomePage()):?>
         <h1 class="logo">Lawrence Magento Demo</h1>
         <?php else:?>
-        <a href="<?php echo $this->getUrl('') ?>" class="logo"><strong><?php echo $this->getLogoAlt() ?>Lawrence Magento Demo</strong></a>
+        <h1 class="logo"><a href="<?php echo $this->getUrl('') ?>" class="logo"><?php //echo $this->getLogoAlt() ?>Lawrence Magento Demo</a></h1>
         <?php endif?>
         <?php echo $this->getChildHtml('topContainer'); ?>
     </div>
@@ -55,5 +55,10 @@
 		<div class="holder holder2">
 		<?php echo $this->getChildHtml('topSearch') ?>
 		</div>
+	</div>
+</div>
+<div class="promo-container">
+	<div class="wrapper">
+		<?php echo $this->getLayout()->createBlock('cms/block')->setBlockId('promotion-block-top')->toHtml() ?>
 	</div>
 </div>

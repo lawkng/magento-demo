@@ -1,6 +1,6 @@
-/*
 
-I currently work with a senior Magento developer, but I was once asked the question - "what can you do by yourself?" Below is is my answer.
+I currently work with a senior Magento developer, who takes care of many backend modules/extensions/customisations while I work on styling the site.
+But I was once asked the question - "what can you do by yourself?" Below is my answer.
 
 PURPOSE of this Magento demo store:
 The intention is to show my ability to change Magento via xml and phtml files, NOT to demonstrate design or styling via CSS, 
@@ -47,6 +47,3 @@ Change/Progress Log
 * /template/catalog/product/view/addto.phtml: disabled "Add to compare"
 * /template/catalog/product/view/description.phtml: added extra html wrapper for .product-collateral styling
 * /template/catalog/product/view/attributes.phtml: added extra html wrapper for .product-collateral styling
-
-
-*/

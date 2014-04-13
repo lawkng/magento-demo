@@ -4,6 +4,7 @@ PURPOSE of this Magento demo store:
 The intention is to show my ability to change Magento via xml and phtml files, NOT to demonstrate design or styling via CSS, 
 therefore the lack of styling is intentional.
 
+The theme I am using is app/design/frontend/law/demo
 
 Change/Progress Log
 

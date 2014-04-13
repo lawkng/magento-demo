@@ -12,3 +12,4 @@ var/report
 downloader/*
 .htaccess
 !*/.htaccess
+detail.txt

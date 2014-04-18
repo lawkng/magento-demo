@@ -43,6 +43,7 @@ therefore the lack of styling is intentional.</p>
 <li>/template/catalog/product/list.phtml: removed Compare and Add to wishlist</li>
 <li>Admin Panel > Advanced: turned off Mage_Review module (hide the review stars and rating on category view)</li>
 <li>/layout/catalog.xml: replaced "left.permanent.callout" with a static block</li>
+<li>/template/catalog/product/list.phtml: showed NEW sticker for product that is new</li>
 </ul>
 
 <strong>Product View</strong>

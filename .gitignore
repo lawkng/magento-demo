@@ -3,6 +3,7 @@ media/catalog/product/cache/*
 media/tmp/*
 errors/local.xml
 var/cache
+var/cache/*
 var/session
 var/locks
 var/package

@@ -282,6 +282,7 @@ margin:0px !Important;
 	border-top:1px solid #E2E2E2 !important;
 	border-bottom:1px solid #E2E2E2 !important;
 	padding-top:4px;
+	margin-bottom:10px;
 }
 
 .catalog-category-view .pager,
@@ -328,6 +329,23 @@ margin:0px !Important;
 .catalog-category-view .callout.left span {
 	color:red;
 	font-weight: bold;
+}
+.catalog-category-view .category-products .item {
+	position:relative;
+}
+.catalog-category-view .category-products .item  .sticker-new {
+	position:absolute;
+	top:0px;
+	left:0px;
+	color:#ffffff;
+	background:#2F2F2F;
+	display:block;
+	width:30px;
+	height:30px;
+	line-height:30px;
+	font-size:10px;
+	font-weight:bold;
+	text-align:center;
 }
 
 /* === Product View === */

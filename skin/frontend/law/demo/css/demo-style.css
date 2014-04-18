@@ -434,3 +434,12 @@ margin:0px !Important;
 	color:red;
 	font-weight:bold;
 }
+#cloud-zoom-big {
+	left:0px !important;
+	top:0px !Important;
+}
+
+.more-views li img {
+	cursor:pointer;
+	border:1px solid #cccccc;
+}

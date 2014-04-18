@@ -19,6 +19,7 @@ therefore the lack of styling is intentional.</p>
 <li>/layout/page.xml: removed  default "footer_links" (site map, contact us links etc)</li>
 <li>/template/newsletter/subscribe.phtml: changed html to Email Sign Up and added to footer via static block</li>
 <li>/template/page/html/notices.phtml: changed default demo store message</li>
+<li>/skin/frontend/law/demo/css/demo-style.scss: basic global colors in main CSS file is now pre-processed with SASS</li> 
 </ul>
 
 <strong>Top Menu</strong>

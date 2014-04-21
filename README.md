@@ -6,6 +6,10 @@ But I was once asked the question - "what can you do by yourself?" Below is my a
 The intention is to show my ability to change Magento via xml and phtml files, NOT to demonstrate design or styling via CSS, 
 therefore the lack of styling is intentional.</p>
 
+<p>I will progressively modify/add to this demo when I have time (I do this after hours and yes I do try to have a life outside web development :)</p>
+
+<p>The URL is: <a href="http://www.lawmagento.com.au" target="_blank">www.lawmagento.com.au</a>
+
 <p>The theme I am using is app/design/frontend/law/demo</p>
 
 <p><strong>Change/Progress Log</strong></p>

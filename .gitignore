@@ -2,7 +2,9 @@
 /media/catalog/product/cache/*
 media/tmp/*
 /errors/local.xml
-/var/cache
+var/
+/var/
+var/cache/*
 /var/cache/*
 var/session
 var/locks

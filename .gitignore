@@ -1,7 +1,7 @@
-app/etc/local.xml
-media/catalog/product/cache/*
+/app/etc/local.xml
+/media/catalog/product/cache/*
 media/tmp/*
-errors/local.xml
+/errors/local.xml
 /var/cache
 /var/cache/*
 var/session
@@ -10,7 +10,7 @@ var/package
 var/importexport
 var/log
 var/report
-downloader/*
+/downloader/*
 .htaccess
 !*/.htaccess
 detail.txt
